@@ -121,6 +121,7 @@ function getSpeakerTable() {
 
 function getAdvisoryCommitteeTable() {
   readTextFile("resources/advisory.json", function (text) {
+     console.log("File read successfully");
     var data = JSON.parse(text);
     var tableContainer = document.getElementById("advisoryData");
     var table = document.createElement("table");

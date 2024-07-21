@@ -19,7 +19,6 @@
             <?php include 'navbar.php' ?>
         </section>
         <section>
-            <!-- <?php include 'comingsoon.php' ?> -->
             <div class="grid grid-cols-7 dark:">
                 <div class="col-span-7 flex justify-center m-5">
                     <span class="dark: text-3xl font-bold py-6">Advisory Committee</span>
