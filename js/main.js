@@ -120,6 +120,7 @@ function getSpeakerTable() {
 }
 
 function getAdvisoryCommitteeTable() {
+  console.log("here");
   readTextFile("resources/advisory.json", function (text) {
      console.log("File read successfully");
     var data = JSON.parse(text);

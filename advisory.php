@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Advisory Committee | ICSC 2025 Conference</title>
     <?php include 'includes.php' ?>
+    <script src="js/main.js"></script>
 </head>
 
 <body onload="getAdvisoryCommitteeTable();">
