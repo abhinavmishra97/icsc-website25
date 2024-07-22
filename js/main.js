@@ -26,8 +26,20 @@ function readTextFile(file, callback) {
   rawFile.onreadystatechange = function () {
     if (rawFile.readyState === 4 && rawFile.status == "200") {
       callback(rawFile.responseText);
+    } else {
+      console.error(
+        "Failed to fetch file. Status:",
+        rawFile.status,
+        "Status Text:",
+        rawFile.statusText
+      );
     }
   };
+
+   rawFile.onerror = function () {
+     console.error("Request error.");
+   };
+  
   rawFile.send(null);
 }
 
