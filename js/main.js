@@ -131,36 +131,66 @@ function getSpeakerTable() {
   }
 }
 
+// function getAdvisoryCommitteeTable() {
+//   console.log("here");
+//   readTextFile("resources/advisory.json", function (text) {
+//      console.log("File read successfully");
+//     var data = JSON.parse(text);
+//     var tableContainer = document.getElementById("advisoryData");
+//     var table = document.createElement("table");
+//     table.setAttribute(
+//       "class",
+//       "table table-compact table-zebra text-center mx-auto"
+//     );
+//     var tbody = document.createElement("tbody");
+//     var heads = ["name"];
+//     for (var i = 0; i < data.length - 3; i += 3) {
+//       var tr = document.createElement("tr");
+//       var td = document.createElement("td");
+//       td.innerHTML = data[i][heads[0]];
+//       tr.appendChild(td);
+
+//       var td = document.createElement("td");
+//       td.innerHTML = data[i + 1][heads[0]];
+//       tr.appendChild(td);
+
+//       var td = document.createElement("td");
+//       td.innerHTML = data[i + 2][heads[0]];
+//       tr.appendChild(td);
+
+//       tbody.appendChild(tr);
+//     }
+
+//     table.appendChild(tbody);
+//     tableContainer.appendChild(table);
+//   });
+// }
+
 function getAdvisoryCommitteeTable() {
-  console.log("here");
   readTextFile("resources/advisory.json", function (text) {
-     console.log("File read successfully");
     var data = JSON.parse(text);
     var tableContainer = document.getElementById("advisoryData");
     var table = document.createElement("table");
-    table.setAttribute(
-      "class",
-      "table table-compact table-zebra text-center mx-auto"
-    );
+    table.setAttribute("class", "table table-compact table-zebra text-center");
     var tbody = document.createElement("tbody");
+    // var thead = document.createElement('thead');
+    // var headr = document.createElement('tr');
+    // var th = document.createElement('th');
+    // th.innerHTML = "Name";
+    // th.setAttribute('class', 'text-2xl capitalize');
+    // headr.appendChild(th);
+    // thead.appendChild(headr);
+    // table.appendChild(thead);
     var heads = ["name"];
-    for (var i = 0; i < data.length - 3; i += 3) {
+    for (var i = 0; i < data.length; i++) {
       var tr = document.createElement("tr");
-      var td = document.createElement("td");
-      td.innerHTML = data[i][heads[0]];
-      tr.appendChild(td);
-
-      var td = document.createElement("td");
-      td.innerHTML = data[i + 1][heads[0]];
-      tr.appendChild(td);
-
-      var td = document.createElement("td");
-      td.innerHTML = data[i + 2][heads[0]];
-      tr.appendChild(td);
-
+      for (var j = 0; j < 1; j++) {
+        var td = document.createElement("td");
+        td.innerHTML = data[i][heads[j]];
+        tr.appendChild(td);
+      }
       tbody.appendChild(tr);
     }
-
     table.appendChild(tbody);
     tableContainer.appendChild(table);
   });
