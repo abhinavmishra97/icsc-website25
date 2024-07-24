@@ -37,13 +37,13 @@
                             <tr>
                                 <td class="font-bold">Communication</td>
                                 <td>Prof. Ghanshyam Singh, Professor, MNIT Jaipur, India</td>
-                                <td>Dr. Ashish Goel, Jaypee Institute of Information Technology, Noida, India
+                                <td>Prof. Ashish Goel, Jaypee Institute of Information Technology, Noida, India
                                 </td>
                             </tr>
                             <tr>
                                 <td class="font-bold">Signal Processing</td>
                                 <td>Prof. Ram Bilas Pachori, IIT Indore, India</td>
-                                <td>Dr. Megha Agarwal, Jaypee Institute of Information Technology, Noida, India</td>
+                                <td>Prof. Megha Agarwal, Jaypee Institute of Information Technology, Noida, India</td>
                             </tr>
                             <tr>
                                 <td class="font-bold">VLSI Technology & <br> Embedded Systems</td>

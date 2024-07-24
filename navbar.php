@@ -19,7 +19,7 @@
                 <p class="text-blue-700 text-xs font-bold lg:text-lg">20-22 Feb 2025</p>
                 <p class="text-red-500 text-xs lg:text-lg font-bold"><span class="font-bold animate-pulse">Hybrid Mode (in person and virtual)!</span>!</p>
             </div>
-            <span class="text-blue-900 text-xs lg:text-xl font-bold">IEEE Conference Record Number - 64553 (Approved)</span>
+            <span class="text-blue-900 text-xs lg:text-xl font-bold">IEEE Conference Record Number - 64553</span>
         </div>
         <img src="img/IEEE.png" class="h-24 w-60 hidden md:inline" />
     </div>

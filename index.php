@@ -276,18 +276,15 @@
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Call for Papers</h6>
-                            <!-- <span>For more details please click <a class="text-primary" href="resources/call for papers.pdf" download="resources/call for papers.pdf">HERE</a></span> -->
-                            <span>Coming soon</span>
+                            <span>For more details please click <a class="text-primary" href="resources/call for papers.pdf" download="resources/call for papers.pdf">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for the Authors</h6>
-                            <!-- <span>For more details please click <a class="text-primary" href="instruction.php">HERE</a></span> -->
-                            <span>Coming soon</span>
+                            <span>For more details please click <a class="text-primary" href="instruction.php">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">List of Distinguished TPC Members</h6>
-                            <!-- <span>For more details please click <a class="text-primary" href="tpc.php">HERE</a></span> -->
-                            <span>Coming soon</span>
+                            <span>For more details please click <a class="text-primary" href="tpc.php">HERE</a></span>
                         </li>
                         <!-- <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for Attendees</h6>
@@ -304,24 +301,23 @@
                             <tr>
                                 <td class="text-sm md:text-xl">Paper Submission</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    Coming soon
+                                    25th October, 2024
                                 </td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Notification of acceptance</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">Coming soon</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">10th December, 2024</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Final Paper submission Date</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    Coming soon
+                                    25th December, 2024
                                 </td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Link to paper submission</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    <!-- <a href="https://edas.info/N31246" class="rounded font-bold">EDAS</a> -->
-                                    Coming soon
+                                    <a href="https://edas.info/N32576" class="rounded font-bold">EDAS</a>
                                 </td>
                             </tr>
                         </tbody>
