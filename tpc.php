@@ -47,7 +47,7 @@
                             </tr>
                             <tr>
                                 <td class="font-bold">VLSI Technology & <br> Embedded Systems</td>
-                                <td>Prof. Brajesh Kumar Kaushik, IIT Roorkee, India</td>
+                                <td>Prof. Sudeb Dasgupta, IIT Roorkee, India</td>
                                 <td>Dr. Vimal Kumar Mishra, Jaypee Institute of Information Technology, Noida, India</td>
                             </tr>
                             <tr>

@@ -211,8 +211,7 @@
                                 <b>The corresponding author/registered author will receive the link of eCF on registered email ID. </b>
                             </li>
                             <li class="my-2">For any query/help regarding registration, please feel free to contact
-                                <b>Prof. Ashish
-                                    Goel</b> at <b>ashish.goel@mail.jiit.ac.in.</b>
+                                <b>Dr. Rahul Kaushik</b> at <b>rahul.kaushik@jiit.ac.in</b>
                             </li>
                         </ul>
 

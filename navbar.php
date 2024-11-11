@@ -96,6 +96,14 @@
     <li class="border-l border-white text-xs font-bold uppercase"><a href="speakers.php">Speakers</a></li>
     <!-- <li class="border-l border-white text-xs w-auto p-0 font-bold uppercase"><a class="w-full" href="exhibitors.php">Exhibitors</a></li> -->
     <li class="border-l border-white text-xs font-bold uppercase"><a href="tpc.php">Track Chairs/TPC</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase" tabindex="0">
+        <a>Tours</a>
+        <ul class="bg-blue-600 w-[130px] p-0 rounded-none">
+            <li class="text-xs font-bold uppercase"><a href="aroundDelhi.php">Around Delhi</a></li>
+            <li class="text-xs font-bold uppercase"><a href="outsideDelhi.php">Outside Delhi</a></li>
+        </ul>
+    </li>
+    <li class="border-l border-white text-xs font-bold uppercase"><a href="stay.php">Stay</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="message.php">Message</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="contact.php">Contact</a></li>
 

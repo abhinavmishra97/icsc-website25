@@ -173,14 +173,6 @@ function getAdvisoryCommitteeTable() {
     var table = document.createElement("table");
     table.setAttribute("class", "table table-compact table-zebra text-center");
     var tbody = document.createElement("tbody");
-    // var thead = document.createElement('thead');
-    // var headr = document.createElement('tr');
-    // var th = document.createElement('th');
-    // th.innerHTML = "Name";
-    // th.setAttribute('class', 'text-2xl capitalize');
-    // headr.appendChild(th);
-    // thead.appendChild(headr);
-    // table.appendChild(thead);
     var heads = ["name"];
     for (var i = 0; i < data.length; i++) {
       var tr = document.createElement("tr");
