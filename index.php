@@ -55,7 +55,8 @@
         [
             'image' => 'img/slider/5.jpg',
             'caption' => 'Image 5',
-        ], [
+        ],
+        [
             'image' => 'img/slider/6.jpg',
             'caption' => 'Image 3',
         ],
@@ -301,7 +302,7 @@
                             <tr>
                                 <td class="text-sm md:text-xl">Paper Submission</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    4th December, 2024(final call)
+                                    4th December, 2024<span style="color: red;"> (Final Call)</span>
                                 </td>
                             </tr>
                             <tr>
