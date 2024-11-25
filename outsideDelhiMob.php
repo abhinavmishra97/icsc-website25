@@ -24,17 +24,17 @@
         </section>
 
         <div class="flex items-center justify-center flex-col">
-            <div class="flex justify-center py-4">
+            <div class="flex justify-center py-3">
                 <span class="m-5 text-4xl font-bold dark:">Outside Delhi</span>
             </div>
             <!-- <div class="divider w-[50%] m-auto"></div> -->
-            <div class="w-[100%] px-40">
+            <div class="w-[100%] px-5">
                 <div class="m-auto pt-18">
                     <span class="text-3xl text-center font-bold">Rishikesh (Uttarakhand)</span>
-                    <div class="divider w-50 m-auto"></div>
+                    <div class="divider w-[100%] m-auto"></div>
                     <table class="w-full table-auto">
-                        <tr>
-                            <td class="w-[30%] p-1"><img src="img/places/rishikesh.jpg" class="w-auto"></td>
+                        <tr class="flex flex-col items-center">
+                            <td class="w-[30%] p-1 flex-shrink-0 w-[80%] h-auto"><img src="img/places/rishikesh.jpg" class="w-full"></td>
                             <td class="p-4 text-left align-top">
                                 <p class="text-justify text-base">
                                     <b>Distance (from Delhi) - 228km
@@ -49,8 +49,8 @@
                     <span class="text-3xl text-center font-bold">Dehradun (Uttarakhand)</span>
                     <div class="divider w-50 m-auto"></div>
                     <table class="w-full table-auto">
-                        <tr>
-                            <td class="w-[30%] p-1"><img src="img/places/dehradun.jpg" class="w-auto"></td>
+                        <tr class="flex flex-col items-center">
+                            <td class="w-[30%] p-1 flex-shrink-0 w-[80%] h-auto"><img src="img/places/dehradun.jpg" class="w-full"></td>
                             <td class="p-4 text-left align-top">
                                 <p class=" text-justify text-base">
                                     <b>Distance (from Delhi) - 245km
@@ -67,8 +67,8 @@
                     <span class="text-3xl text-center font-bold">Jaipur ( Rajasthan)</span>
                     <div class="divider w-50 m-auto"></div>
                     <table class="w-full table-auto">
-                        <tr>
-                            <td class="w-[30%] p-1"><img src="img/places/jaipur.jpg" class="w-auto"></td>
+                        <tr class="flex flex-col items-center">
+                            <td class="w-[30%] p-1 flex-shrink-0 w-[80%] h-auto"><img src="img/places/jaipur.jpg" class="w-full"></td>
                             <td class="p-4 text-left align-top">
                                 <p class=" text-justify text-base">
                                     <b>Distance (from Delhi) - 269km
@@ -83,8 +83,8 @@
                     <span class="text-3xl text-center font-bold">Chandigarh</span>
                     <div class="divider w-50 m-auto"></div>
                     <table class="w-full table-auto">
-                        <tr>
-                            <td class="w-[30%] p-1"><img src="img/places/chandigarh.jpg" class="w-auto"></td>
+                        <tr class="flex flex-col items-center">
+                            <td class="w-[30%] p-1 flex-shrink-0 w-[80%] h-auto"><img src="img/places/chandigarh.jpg" class="w-full"></td>
                             <td class="p-4 text-left align-top">
                                 <p class=" text-justify text-base">
                                     <b>Distance (from Delhi) - 242km
@@ -99,8 +99,8 @@
                     <span class="text-3xl text-center font-bold">Bharatpur (Rajasthan)</span>
                     <div class="divider w-50 m-auto"></div>
                     <table class="w-full table-auto">
-                        <tr>
-                            <td class="w-[30%] p-1"><img src="img/places/bharatpur.jpeg" class="h-58 w-auto"></td>
+                        <tr class="flex flex-col items-center">
+                            <td class="w-[30%] p-1 flex-shrink-0 w-[80%] h-auto"><img src="img/places/bharatpur.jpeg" class="w-full"></td>
                             <td class="p-4 text-left align-top">
                                 <p class=" text-justify text-base">
                                     <b>Distance (from Delhi) - 182km
@@ -115,9 +115,9 @@
                     <span class="text-3xl text-center font-bold">Agra ( Uttar Pradesh)</span>
                     <div class="divider w-50 m-auto"></div>
                     <table class="w-full table-auto">
-                        <tr>
-                            <td class="w-[30%] p-1">
-                                <img src="img/places/agra.jpg" class="w-auto">
+                        <tr class="flex flex-col items-center">
+                            <td class="w-[30%] p-1 flex-shrink-0 w-[80%] h-auto">
+                                <img src="img/places/agra.jpg" class="w-full">
                             </td>
                             <td class="p-4 text-left align-top">
                                 <p class=" text-justify text-base"><b>Distance (from Delhi) - 211km

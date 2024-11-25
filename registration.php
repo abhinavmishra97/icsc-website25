@@ -205,7 +205,7 @@
                                 IEEE pdf express must be uploaded through <b><a href="https://forms.gle/tJUCjkxkghZe3Zvz8" target="_blank">Register Now</a></b>. </li> -->
                             <li class="my-2">Papers must be strictly checked through <b><a href="#">IEEE
                                         PDF express (Conference ID: 64553)</a></b></b>. Final paper checked through
-                                IEEE pdf express must be uploaded through <b><a href="#" target="_blank">Register Now</a>(Coming soon)</b>. </li>
+                                IEEE pdf express must be uploaded through <b><a href="#" target="_blank">The Link</a>(Coming soon)</b>. </li>
                             <li class="my-2">The electronic IEEE Copyright Form (eCF) will be used to transfer the
                                 copyright to IEEE.
                                 <b>The corresponding author/registered author will receive the link of eCF on registered email ID. </b>
@@ -301,17 +301,17 @@
                             </table> -->
 
                         <div class="divider"></div>
-                        <span class="text-2xl">QR code</span>
+                        <span class="font-bold text-2xl">1.Indian Participants<br />Please pay through QR code</span>
                         <div class="divider"></div>
-                        <img src="resources/QR.png" alt="QR code" class="w-1/3 mx-auto">
+                        <img src="resources/qrcode.png" alt="QR code" class="w-1/3 mx-auto">
 
                         <div class="divider"></div>
                     </div>
-                    <p class="font-bold">1. For ICICI Bank user, add payee under "Other Banks".</p>
+                    <!-- <p class="font-bold">1. For ICICI Bank user, add payee under "Other Banks".</p>
                     <p class="font-bold">2. UPI payment through Wallet (Phonepe, paytm etc) not applicable. </p>
-                    <p class="font-bold">3. For any query mail to fees@jiit.ac.in with a copy to icsc@jiit.ac.in</p>
+                    <p class="font-bold">3. For any query mail to fees@jiit.ac.in with a copy to icsc@jiit.ac.in</p> -->
                     <div class="divider"></div>
-                    <span class="font-bold text-2xl">Wire Transfer (outside India)</span>
+                    <span class="font-bold text-2xl">2.Foreign participants<br />Please pay through Wire Transfer</span>
                     <div class="divider"></div>
                     <span class="text-justify">The Participants/Authors can pay the registration fee through Fund
                         Transfer. The Fund Transfer must be made to the following Account details.</span>
@@ -334,10 +334,8 @@
                                     Correspondence Bank (Field 57A of Swift)</p>
                             </td>
                             <td>
-                                <p><b>IBKLINBBA83</b> <br> Pacific
-                                    Business Park, 1st Floor, Plot No. 37/1, <br>
-                                    Dr. Burman Marg, Sahibabad (U.P.),<br>
-                                    Ghaziabad-201010</p>
+                                <p><b>IBKLINBB010</b> <br> 8th Floor, Plate B, Block 2, NBCC Office Complex,<br /> East Kidwai Nagar,<br />New Delhi-110023
+                                </p>
                             </td>
 
                         </tr>

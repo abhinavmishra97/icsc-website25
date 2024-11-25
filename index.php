@@ -301,7 +301,7 @@
                             <tr>
                                 <td class="text-sm md:text-xl">Paper Submission</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    9th November, 2024
+                                    4th December, 2024(final call)
                                 </td>
                             </tr>
                             <tr>

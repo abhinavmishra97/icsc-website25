@@ -16,10 +16,10 @@
                 <h4 class="text-sm text-gray-600">Department of Electronics and Communication Engineering, JIIT, Noida, U.P., India</h4>
             </div>
             <div class="flex md:flex-row flex-col space-x-2 items-center">
-                <p class="text-blue-700 text-xs font-bold lg:text-lg">20-22 Feb 2025</p>
-                <p class="text-red-500 text-xs lg:text-lg font-bold"><span class="font-bold animate-pulse">Hybrid Mode (in person and virtual)!</span>!</p>
+                <p class="text-blue-700 text-xs font-bold lg:text-lg">20th - 22nd February, 2025</p>
+                <p class="text-red-500 text-xs lg:text-lg font-bold"><span class="font-bold animate-pulse">Hybrid Mode (in person and virtual)!!</span></p>
             </div>
-            <span class="text-blue-900 text-xs lg:text-xl font-bold">IEEE Conference Record Number - 64553</span>
+            <span class="text-blue-900 text-xs lg:text-xl font-bold">IEEE Conference Record Number - 64553 (Approved)</span>
         </div>
         <img src="img/IEEE.png" class="h-24 w-60 hidden md:inline" />
     </div>
@@ -60,6 +60,14 @@
         <li><a href="speakers.php">Speakers</a></li>
         <!-- <li><a href="exhibitors.php">Exhibitors</a></li> -->
         <li class="w-[185px] p-0"><a class="w-full" href="tpc.php">Track Chair/TPC</a></li>
+        <li>
+            <a>Tours</a>
+            <ul class="bg-blue-600 p-2">
+                <li><a href="aroundDelhi.php">Around Delhi</a></li>
+                <li><a href="outsideDelhiMob.php">Outside Delhi</a></li>
+            </ul>
+        </li>
+        <li><a href="stay.php">Stay</a></li>
         <li><a href="message.php">Message</a></li>
         <li><a href="contact.php">Contact</a></li>
         <li><a>TPC</a></li>
