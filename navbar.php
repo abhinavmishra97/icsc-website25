@@ -67,7 +67,7 @@
                 <li><a href="outsideDelhiMob.php">Outside Delhi</a></li>
             </ul>
         </li>
-        <li><a href="stay.php">Stay</a></li>
+        <li><a href="stayMob.php">Stay</a></li>
         <li><a href="message.php">Message</a></li>
         <li><a href="contact.php">Contact</a></li>
         <li><a>TPC</a></li>
